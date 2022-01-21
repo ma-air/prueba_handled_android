@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dias del mes</string>
+    <string name="pregunta">Ingresa qué día del mes es hoy.</string>
+    <string name="boton">COMPRUEBA</string>
+    <string name="acierto">CORRECTO!! HAS ACERTADO</string>
+    <string name="fallo">INCORRECTO!! VUELVE A INTENTARLO</string>
+</resources>
